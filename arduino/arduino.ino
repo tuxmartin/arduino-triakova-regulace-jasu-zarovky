@@ -1,4 +1,7 @@
-/*
+/* pouzity zdroje:
+	http://www.instructables.com/id/Arduino-controlled-light-dimmer-The-circuit/?ALLSTEPS
+	http://vinduino.blogspot.cz/2013/07/hc-sr04-ultrasonic-sensor.html
+
  HC-SR04 Ping distance sensor:
  VCC to arduino 5v 
  GND to arduino GND
